@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSTools" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://github.com/OMerkel/GPSTools/tree/main/gpx" />
+    <author>
+      <name>Oliver Merkel</name>
+      <email id="Merkel.Oliver" domain="web.de"/>
+    </author>
+    <copyright author="Oliver Merkel">
+      <year>2021</year>
+      <license>https://opensource.org/licenses/mit-license.php</license>
+    </copyright>
+  </metadata>
+  <trk>
+    <name>Wurmtal A2 Burg Wilhelmstein</name>
+    <trkseg>
+      <trkpt lat="50.841781" lon="6.099183">
+        <ele>121.64</ele>
+        <time>2019-02-02T10:05:08Z</time>
+      </trkpt>
+      <trkpt lat="50.842478" lon="6.102479">
+        <ele>151.91</ele>
+        <time>2019-02-02T10:08:14.80Z</time>
+      </trkpt>
+      <trkpt lat="50.842461" lon="6.103844">
+        <ele>159.57</ele>
+        <time>2019-02-02T10:09:28.17Z</time>
+      </trkpt>
+      <trkpt lat="50.842305" lon="6.103152">
+        <ele>156.39</ele>
+        <time>2019-02-02T10:10:07.65Z</time>
+      </trkpt>
+      <trkpt lat="50.842168" lon="6.103069">
+        <ele>156.56</ele>
+        <time>2019-02-02T10:10:20.14Z</time>
+      </trkpt>
+      <trkpt lat="50.840977" lon="6.103547">
+        <ele>156.21</ele>
+        <time>2019-02-02T10:12:04.70Z</time>
+      </trkpt>
+      <trkpt lat="50.840857" lon="6.104022">
+        <ele>159.68</ele>
+        <time>2019-02-02T10:12:32.20Z</time>
+      </trkpt>
+      <trkpt lat="50.840585" lon="6.103948">
+        <ele>155.95</ele>
+        <time>2019-02-02T10:12:55.69Z</time>
+      </trkpt>
+      <trkpt lat="50.840415" lon="6.103688">
+        <ele>148.49</ele>
+        <time>2019-02-02T10:13:15.80Z</time>
+      </trkpt>
+      <trkpt lat="50.839522" lon="6.103612">
+        <ele>138.27</ele>
+        <time>2019-02-02T10:14:31.91Z</time>
+      </trkpt>
+      <trkpt lat="50.838888" lon="6.103771">
+        <ele>140.27</ele>
+        <time>2019-02-02T10:15:26.54Z</time>
+      </trkpt>
+      <trkpt lat="50.838043" lon="6.103817">
+        <ele>139.22</ele>
+        <time>2019-02-02T10:16:38.50Z</time>
+      </trkpt>
+      <trkpt lat="50.837534" lon="6.103169">
+        <ele>132.02</ele>
+        <time>2019-02-02T10:17:34.08Z</time>
+      </trkpt>
+      <trkpt lat="50.837153" lon="6.102965">
+        <ele>132.71</ele>
+        <time>2019-02-02T10:18:08.31Z</time>
+      </trkpt>
+      <trkpt lat="50.836645" lon="6.101615">
+        <ele>124.85</ele>
+        <time>2019-02-02T10:19:32.77Z</time>
+      </trkpt>
+      <trkpt lat="50.836059" lon="6.101295">
+        <ele>122.73</ele>
+        <time>2019-02-02T10:20:25.53Z</time>
+      </trkpt>
+      <trkpt lat="50.834587" lon="6.099048">
+        <ele>121.71</ele>
+        <time>2019-02-02T10:23:19.54Z</time>
+      </trkpt>
+      <trkpt lat="50.834528" lon="6.098053">
+        <ele>126.08</ele>
+        <time>2019-02-02T10:24:13.26Z</time>
+      </trkpt>
+      <trkpt lat="50.834590" lon="6.097203">
+        <ele>134.16</ele>
+        <time>2019-02-02T10:24:59.25Z</time>
+      </trkpt>
+      <trkpt lat="50.835027" lon="6.097393">
+        <ele>130.37</ele>
+        <time>2019-02-02T10:25:37.82Z</time>
+      </trkpt>
+      <trkpt lat="50.835798" lon="6.097209">
+        <ele>135.81</ele>
+        <time>2019-02-02T10:26:44.17Z</time>
+      </trkpt>
+      <trkpt lat="50.836343" lon="6.097352">
+        <ele>142.83</ele>
+        <time>2019-02-02T10:27:31.19Z</time>
+      </trkpt>
+      <trkpt lat="50.837912" lon="6.098820">
+        <ele>141.52</ele>
+        <time>2019-02-02T10:30:06.29Z</time>
+      </trkpt>
+      <trkpt lat="50.838472" lon="6.099646">
+        <ele>133.34</ele>
+        <time>2019-02-02T10:31:11.42Z</time>
+      </trkpt>
+      <trkpt lat="50.838759" lon="6.099860">
+        <ele>130.99</ele>
+        <time>2019-02-02T10:31:38.42Z</time>
+      </trkpt>
+      <trkpt lat="50.839575" lon="6.099498">
+        <ele>127.29</ele>
+        <time>2019-02-02T10:32:50.54Z</time>
+      </trkpt>
+      <trkpt lat="50.840190" lon="6.098899">
+        <ele>122.79</ele>
+        <time>2019-02-02T10:33:51.99Z</time>
+      </trkpt>
+      <trkpt lat="50.840912" lon="6.098787">
+        <ele>119.39</ele>
+        <time>2019-02-02T10:34:53.73Z</time>
+      </trkpt>
+      <trkpt lat="50.840979" lon="6.098954">
+        <ele>119.69</ele>
+        <time>2019-02-02T10:35:04.36Z</time>
+      </trkpt>
+      <trkpt lat="50.841674" lon="6.099289">
+        <ele>119.96</ele>
+        <time>2019-02-02T10:36:06.19Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

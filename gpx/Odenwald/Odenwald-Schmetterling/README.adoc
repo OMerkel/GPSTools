@@ -4,21 +4,22 @@ Beim Odenwälder Schmetterling handelt es sich um ein Wanderwege-Konzept,
 dass mittlerweile nach aktuellem Stand wohl aufgegeben wurde.
 
 Die hier vorgestellten GPX-Daten entsprechen in etwa den früheren Wegeverläufen.
+Nur der Alemannenweg erhielt abschnittsweise eine neue Wegeführung, die hier mit vorgestellt wird.  
 Es gibt derzeit keine einheitliche Wegeausschilderung und daher gilt um so mehr,
 dass man die GPX-Daten logischerweise wie immer eigenverantwortlich nutzt.
 
 Der insgesamt über 500km umfassende Schmetterling besteht
 aus 4 Wanderwegen, die sozusagen dessen Flügel bilden:
 
-* [Alemannenweg](Alemannenweg.gpx) im Nordwesten relativ zu Michelstadt / Erbach,
-* [Frankenweg](Frankenweg.gpx) im Nordosten,
-* [Badener Weg](Badener_Weg.gpx) im Südosten und
-* [Burgundenweg](Burgundenweg.gpx) im Südwesten.
+* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Alemannenweg-rotes_A.gpx[Alemannenweg] (alternative https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Alemannenweg-früher.gpx[ursprüngliche Wegeführung]) im Nordwesten relativ zu Michelstadt / Erbach,
+* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Frankenweg.gpx[Frankenweg] im Nordosten,
+* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Badener_Weg.gpx[Badener Weg] im Südosten und
+* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Burgundenweg.gpx[Burgundenweg] im Südwesten.
 
 Michelstadt und Erbach liegen dabei relativ zentral im Odenwald und bilden mögliche
 zentrale Startpunkte für alle Wege.
 
-<img src="img/Odenwald-Schmetterling_gesamt.jpg" width="60%" />
+image:./img/Odenwald-Schmetterling_gesamt.jpg[alt="Odenwald-Schmetterling_gesamt",width=30%]
 
 Diesen einzelnen Wanderwegen wurden jeweils Farben und im Namen auch Volksstämme zugeordnet.
 Es gibt keine Belege, dass diese Volksstämme genau in der zugeordneten Region irgendwie aktiver
@@ -28,28 +29,23 @@ regional ansäßig waren oder Kontakt bestand.
 
 ___Aufgepasst:___
 _Beim Frankenweg des Odenwald-Schmetterlings mit etwa 97 km handelt es sich nicht um
-den [Frankenweg](https://www.frankenweg.de/) vom Rennsteig zur Schwäbischen Alb mit seinen
+den https://www.frankenweg.de/[Frankenweg] vom Rennsteig zur Schwäbischen Alb mit seinen
 knapp 520 km._
 
-<table>
-<thead><tr>
-<th>Wegebezeichnung</th><th>Odenwaldregion</th><th>Farbe</th><th>Länge</th><th>Höhenmeter</th>
-</tr></thead>
-<tbody><tr>
-<td>Alemannenweg</td><td>Nordwest</td><td>rot</td><td>137 km</td><td></td>
-</tr>
-<tr>
-<td>Frankenweg</td><td>Nordost</td><td>blau</td><td>97 km</td><td></td>
-</tr>
-<tr>
-<td>Badener Weg</td><td>Südost</td><td>gelb</td><td>161 km</td><td></td>
-</tr>
-<tr>
-<td>Burgundenweg</td><td>Südwest</td><td>grün</td><td>154 km</td><td></td>
-</tr></tbody>
-</table>
+[width="100%",options="header"]
+|=========================================================
+|Wegebezeichnung |Odenwaldregion |Farbe |Länge |Höhenmeter
 
-<img src="img/Wanderzeichen_Alemannenweg.jpg" width="30%" />
+|Alemannenweg |Nordwest |rot |142,5 km |+3416m / -3432m
+
+|Frankenweg |Nordost |blau |97,8 km |+2066m / -2066m
+
+|Badener Weg |Südost |gelb |161,2 km |+3189m / -3189m
+
+|Burgundenweg |Südwest |grün |153,6 km |+4396m / -4384m
+|=========================================================
+
+image:./img/Wanderzeichen_Alemannenweg.jpg[alt="Wanderzeichen Alemannenweg",width=30%]
 
 Der Alemannenweg hat aktuell eine eigene durchgängige Wegemarkierung (rotes A mit kleinem senkrechten Strich darunter) und wird vom Odenwaldklub
 als Hauptwanderweg 71 (HW71) betreut.  
@@ -89,8 +85,6 @@ Der Burgundenweg hat gemeinsame Wegeabschnitte mit
 * Odenwald-Vogesen-Weg (HW7, roter Balken),
 * 6-Täler-Weg (HW22, grüne Raute)
 
-<img src="img/Odenwald-Schmetterling_gesamt-Höhenprofil.jpg" width="90%" />
-
 Etwa 2005 wurden als Herausgeber und Informationsstellen des Wanderwege-Konzeptes verschiedene
 Touristikverbände, Wanderklubs und Gebietsbetreuer genannt:
 
@@ -108,7 +102,7 @@ diese Informationssammlung und die Tourenvorschläge helfen Interessierten weite
 
 Gruß und viel Spaß mit den gesammelten Informationen...
 
-<img src="img/wenn_man_nicht_damit_rechnet.jpg" width="50%"/>
+image:./img/wenn_man_nicht_damit_rechnet.jpg[alt="Wenn man nicht damit rechnet…",width=50%]
 
 Wenn man nicht damit rechnet, findet man noch tief versteckt im Odenwald Hinweise, dass es
 mal Wegebeschilderungen für den Odenwälder Schmetterling gab oder diese vielleicht geplant waren.

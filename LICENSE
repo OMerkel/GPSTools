@@ -22,4 +22,6 @@ SOFTWARE.
 
 ---
 
+Following third party software uses a different license model:
+
 * Folder _[./thirdparty/GM_Utils]( thirdparty/GM_Utils/ )_ contains the [GPXViewer]( https://www.j-berkemeier.de/GPXViewer/ ) published by Jürgen Berkemeier under CC BY-NC-SA 4.0

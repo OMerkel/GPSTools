@@ -1,6 +1,6 @@
 # GPSTools
 
-Tools to work with GPS data and GPX files.
+Folder [Tools](./tools) contains Python scripts to work with GPS data and GPX files.
 
 ## Collection of Hiking Trails
 

@@ -1,0 +1,19 @@
+# GPSTools
+
+The GPSTools are hosted on _https://github.com/OMerkel/GPSTools/_
+
+Folder _https://github.com/OMerkel/GPSTools/tree/main/tools[./tools]_ contains Python scripts to work with GPS data and GPX files.
+
+## Collection of Hiking Trails
+
+* Folder _https://github.com/OMerkel/GPSTools/tree/main/gpx[./gpx]_ contains a collection of GPX files.
+* There is a more detailed set of information for the long distance trail https://omerkel.github.io/GPSTools/gpx/Odenwald/Odenwald-Schmetterling/[Odenwälder Schmetterling].
+
+## Third Party Tools
+
+* Folder _https://github.com/OMerkel/GPSTools/tree/main/thirdparty/GM_Utils/[./thirdparty/GM_Utils]_ contains the https://www.j-berkemeier.de/GPXViewer/[GPXViewer] published by Jürgen Berkemeier under CC BY-NC-SA 4.0 .
+* https://opentopomap.org/[OpenTopoMap] allows to upload GPX files for visualization on a topographic map layer.
+
+## License Information
+
+See *LICENSE* file in _https://github.com/OMerkel/GPSTools/_ plus additional information if these apply.

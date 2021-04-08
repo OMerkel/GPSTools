@@ -106,3 +106,5 @@ image:./img/wenn_man_nicht_damit_rechnet.jpg[alt="Wenn man nicht damit rechnet�
 
 Wenn man nicht damit rechnet, findet man noch tief versteckt im Odenwald Hinweise, dass es
 mal Wegebeschilderungen für den Odenwälder Schmetterling gab oder diese vielleicht geplant waren.
+
+Mehr beschriebene Wanderwege gibt es auf https://github.com/OMerkel/GPSTools

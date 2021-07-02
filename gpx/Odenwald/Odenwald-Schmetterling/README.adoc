@@ -102,7 +102,7 @@ diese Informationssammlung und die Tourenvorschläge helfen Interessierten weite
 
 Gruß und viel Spaß mit den gesammelten Informationen...
 
-image:./img/wenn_man_nicht_damit_rechnet.jpg[alt="Wenn man nicht damit rechnet…",width=50%]
+image:./img/wenn_man_nicht_damit_rechnet.jpg[alt="Wenn man nicht damit rechnet…",width=90%]
 
 Wenn man nicht damit rechnet, findet man noch tief versteckt im Odenwald Hinweise, dass es
 mal Wegebeschilderungen für den Odenwälder Schmetterling gab oder diese vielleicht geplant waren.

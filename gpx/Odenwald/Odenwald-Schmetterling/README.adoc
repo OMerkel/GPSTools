@@ -11,10 +11,10 @@ dass man die GPX-Daten logischerweise wie immer eigenverantwortlich nutzt.
 Der insgesamt über 500km umfassende Schmetterling besteht
 aus 4 Wanderwegen, die sozusagen dessen Flügel bilden:
 
-* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Alemannenweg-rotes_A.gpx[Alemannenweg] (alternative https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Alemannenweg-früher.gpx[ursprüngliche Wegeführung]) im Nordwesten relativ zu Michelstadt / Erbach,
-* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Frankenweg.gpx[Frankenweg] im Nordosten,
-* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Badener_Weg.gpx[Badener Weg] im Südosten und
-* https://github.com/OMerkel/GPSTools/blob/main/gpx/Odenwald/Odenwald-Schmetterling/Burgundenweg.gpx[Burgundenweg] im Südwesten.
+* https://github.com/OMerkel/GPSTools/releases/download/V211027/Alemannenweg-rotes_A.gpx[Alemannenweg] (alternative https://github.com/OMerkel/GPSTools/releases/download/V211027/Alemannenweg-fruher.gpx[ursprüngliche Wegeführung]) im Nordwesten relativ zu Michelstadt / Erbach,
+* https://github.com/OMerkel/GPSTools/releases/download/V211027/Frankenweg.gpx[Frankenweg] im Nordosten,
+* https://github.com/OMerkel/GPSTools/releases/download/V211027/Badener_Weg.gpx[Badener Weg] im Südosten und
+* https://github.com/OMerkel/GPSTools/releases/download/V211027/Burgundenweg.gpx[Burgundenweg] im Südwesten.
 
 Michelstadt und Erbach liegen dabei relativ zentral im Odenwald und bilden mögliche
 zentrale Startpunkte für alle Wege.

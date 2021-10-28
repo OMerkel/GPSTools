@@ -1,14 +1,15 @@
 # Odenwald Schmetterling
 
-Beim Odenwälder Schmetterling handelt es sich um ein Wanderwege-Konzept,
+Beim *Odenwälder Schmetterling* handelt es sich um ein Wanderwege-Konzept,
 dass mittlerweile nach aktuellem Stand wohl aufgegeben wurde.
 
 Die hier vorgestellten GPX-Daten entsprechen in etwa den früheren Wegeverläufen.
-Nur der Alemannenweg erhielt abschnittsweise eine neue Wegeführung, die hier mit vorgestellt wird.  
-Es gibt derzeit keine einheitliche Wegeausschilderung und daher gilt um so mehr,
+Nur der Alemannenweg erhielt abschnittsweise eine neue Wegeführung, die hier mit vorgestellt wird. Auch eine Wegvariante kann nahe Neunkirchen gewählt werden.
+
+Es gibt derzeit keine einheitliche Wegeausschilderung des Odenwald Schmetterlings und daher gilt um so mehr,
 dass man die GPX-Daten logischerweise wie immer eigenverantwortlich nutzt.
 
-Der insgesamt über 500km umfassende Schmetterling besteht
+Der insgesamt weit über 500km umfassende Schmetterling besteht
 aus 4 Wanderwegen, die sozusagen dessen Flügel bilden:
 
 * https://github.com/OMerkel/GPSTools/releases/download/V211027/Alemannenweg-rotes_A.gpx[Alemannenweg] (alternative https://github.com/OMerkel/GPSTools/releases/download/V211027/Alemannenweg-fruher.gpx[ursprüngliche Wegeführung]) im Nordwesten relativ zu Michelstadt / Erbach,
@@ -45,12 +46,18 @@ knapp 520 km._
 |Burgundenweg |Südwest |grün |153,6 km |+4396m / -4384m
 |=========================================================
 
-image:./img/Wanderzeichen_Alemannenweg.jpg[alt="Wanderzeichen Alemannenweg",width=30%]
+image:./img/Wanderzeichen_Alemannenweg.jpg[alt="Wanderzeichen Alemannenweg",width=80%]
 
-Der Alemannenweg hat aktuell eine eigene durchgängige Wegemarkierung (rotes A mit kleinem senkrechten Strich darunter) und wird vom Odenwaldklub
-als Hauptwanderweg 71 (HW71) betreut.  
+Der *Alemannenweg* hat aktuell eine eigene durchgängige Wegemarkierung als rotes A mit kleinem senkrechten Strich darunter und wird vom Odenwaldklub
+als Hauptwanderweg 71 (HW71) betreut. Als das Wegekonzept noch offiziell gepflegt wurde, entsprach die Wegemarkierung des Alemannenwegs einem roten Buchstaben S (&#8222; *S* chmetterling&#8223; ; dieser könnte derzeit mit dem roten S des nahen Darmstädter Sieben-Hügel-Steigs bei Darmstadt-Eberstadt verwechselt werden).
 
-Eine durchgängige Wegemarkierung entlang des Frankenwegs des Odenwald-Schmetterlings gibt es nicht.
+image:./img/Wanderzeichen_Alemannenweg_rotes_S.jpg[alt="Wanderzeichen Alemannenweg als rotes S",width=50%]
+
+Eine etwa 2 Kilometer lange Wegvariante ist von Lützelbach aus über oder besser durch Neunkirchen als grünes A mit kleinem senkrechten Strich darunter gekennzeichnet. Während dann in Neunkirchen die Variante am Dorfbrunnen, der Linde am Dorfplatz, an der Heiligen Quelle und einer großen hölzernen Liegebank mit Aussicht über die Rhein-Main-Ebene mit Blick auf Frankfurter Skyline und dahinterliegendem Taunus (Bad Homburger Höhe, Altkönig, Großer Feldberg) vorbeiführt, bliebe der Hauptweg außerhalb Neunkirchens und führe über die Sennhütte an der Modauquelle und mittelgroßen Felsformationen vorbei bis beide Wege wieder einander träfen.
+
+image:./img/Alemannenweg-Wegvariante_Neunkirchen.jpg[alt="Wegvariante bei Neunkirchen",width=90%]
+
+Eine durchgängige Wegemarkierung entlang des *Frankenwegs* des Odenwald-Schmetterlings gibt es nicht.
 Teilabschnitte anderer Wanderwege verlaufen zeitweise gemeinsam mit dem Frankenweg.
 Insbesondere trifft man auf den
 
@@ -60,7 +67,7 @@ Insbesondere trifft man auf den
 * Morre–Jagst-Weg (HW35, blaues Andreaskreuz),
 * Fränkischer Rotweinwanderweg
 
-Auf dem Badener Weg ist abschnittsweise der Wegeverlauf identisch mit
+Auf dem *Badener Weg* ist abschnittsweise der Wegeverlauf identisch mit
 
 * 6-Täler-Weg (HW22, grüne Raute),
 * Kreuzwertheim nach Buchen (HW41, roter Punkt),
@@ -74,7 +81,7 @@ Auf dem Badener Weg ist abschnittsweise der Wegeverlauf identisch mit
 * Auf den Spuren der Römer (HW34, gelbes Andreaskreuz),
 * Bachgau-Kraichgau-Weg (HW27, rotes Andreaskreuz)
 
-Der Burgundenweg hat gemeinsame Wegeabschnitte mit
+Der *Burgundenweg* hat gemeinsame Wegeabschnitte mit
 
 * Hessen-Kraichgau-Weg (HW25, rotes Dreieck),
 * Von der Odenwälder Weininsel in den Kleinen Odenwald (HW23, blaues Kreuz),
@@ -84,6 +91,11 @@ Der Burgundenweg hat gemeinsame Wegeabschnitte mit
 * Franken-Hessen-Kurpfalz-Weg (HW21, rotes Kreuz),
 * Odenwald-Vogesen-Weg (HW7, roter Balken),
 * 6-Täler-Weg (HW22, grüne Raute)
+
+Mit *Schmetterlingen* hatte das Wegekonzept Odenwald Schmetterling eigentlich nur die vierflüglige Form gemeinsam.
+Dennoch sei darauf hingewiesen, dass die typische Schmetterlingsarten, denen man auf dem Weg begegnen kann, die Arten vom Kaisermantel bis zum großen Ochsenauge oder das Tagpfauenauge und viele mehr abdecken.
+
+image:./img/Schmetterlinge.jpg[alt="Schmetterlinge entlang des Weges",width=90%]
 
 Etwa 2005 wurden als Herausgeber und Informationsstellen des Wanderwege-Konzeptes verschiedene
 Touristikverbände, Wanderklubs und Gebietsbetreuer genannt:
@@ -105,6 +117,6 @@ Gruß und viel Spaß mit den gesammelten Informationen...
 image:./img/wenn_man_nicht_damit_rechnet.jpg[alt="Wenn man nicht damit rechnet…",width=90%]
 
 Wenn man nicht damit rechnet, findet man noch tief versteckt im Odenwald Hinweise, dass es
-mal Wegebeschilderungen für den Odenwälder Schmetterling gab oder diese vielleicht geplant waren.
+mal eigene Wegebeschilderungen für den Odenwälder Schmetterling gab oder diese vielleicht geplant waren.
 
 Mehr beschriebene Wanderwege gibt es auf https://github.com/OMerkel/GPSTools

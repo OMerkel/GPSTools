@@ -7,7 +7,7 @@ Folder _https://github.com/OMerkel/GPSTools/tree/main/tools[./tools]_ contains P
 ## Collection of Hiking Trails
 
 * Folder _https://github.com/OMerkel/GPSTools/tree/main/gpx[./gpx]_ contains a collection of GPX files.
-* There is a more detailed set of information for the long distance trail https://omerkel.github.io/GPSTools/gpx/Odenwald/Odenwald-Schmetterling/[Odenwälder Schmetterling].
+* There is a more detailed set of information for the long distance trail https://omerkel.github.io/GPSTools/gpx/Odenwald/Odenwald-Schmetterling/[Odenwald Schmetterling].
 
 ## Third Party Tools
 

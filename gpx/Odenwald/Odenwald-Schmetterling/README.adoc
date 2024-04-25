@@ -1,7 +1,7 @@
 # Odenwald Schmetterling
 
 Beim *Odenwälder Schmetterling* handelt es sich um ein Wanderwege-Konzept,
-dass mittlerweile nach aktuellem Stand wohl aufgegeben wurde.
+das mittlerweile nach aktuellem Stand wohl aufgegeben wurde.
 
 Die hier vorgestellten GPX-Daten entsprechen in etwa den früheren Wegeverläufen.
 Nur der Alemannenweg erhielt abschnittsweise eine neue Wegeführung, die hier mit vorgestellt wird. Auch eine Wegvariante kann nahe Neunkirchen gewählt werden.
